@@ -52,7 +52,7 @@ st.write("""
 - **Snake Game (C)**
 """)
 # Image for projects
-st.image("IMG_3771.jpg", caption="Project Highlights")
+st.image("IMG_3771.jpeg", caption="Project Highlights")
 
 # Skills
 st.header("Languages/Tools")
