@@ -14,7 +14,7 @@ UC Berkeley — Computer Science, Math — 3.9/4.0 (2021-2025)
 Relevant Coursework: Machine Learning, Artificial Intelligence, Optimization Models and Convex Optimization, Computer Architecture, Efficient Algorithms, Stochastic and Random Processes, Discrete Mathematics and Probability, Data Structures and Algorithms, Computer Programming, Quant Finance, Game Theory, Blockchain Development
 """)
 # Image for education - Place a path to an image or URL
-st.image("path_to_your_education_image.jpg", caption="UC Berkeley")
+st.image("CA_Berkeley_UniversityOfCaliforniaAtBerkeley_byCharlieNguyen-Flickr_2008_001_Sig.jpg", caption="UC Berkeley")
 
 # Organizations
 st.header("Organizations")
