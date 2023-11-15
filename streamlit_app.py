@@ -26,7 +26,7 @@ st.write("""
 """)
 # Insert images for extracurricular activities
 st.image("IMG_2242.jpeg", caption="Men's Club Soccer at Cal")
-st.image("ING_2684.jpeg", caption="Phi Kappa Sigma")
+st.image("IMG_2684.jpeg", caption="Phi Kappa Sigma")
 st.image("IMG_3771.png", caption="Nova Consulting")
 
 # Experience
