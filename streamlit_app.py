@@ -38,7 +38,7 @@ st.write("""
 - Employed Google Compute Engine for performance optimization.
 """)
 # Image for experience
-st.image("movenet_thunder_screensho.png.jpg", caption="Thrrive Internship")
+st.image("movenet_thunder_screensho.png", caption="Thrrive Internship")
 
 # Personal Projects
 st.header("Personal Project Highlights")
