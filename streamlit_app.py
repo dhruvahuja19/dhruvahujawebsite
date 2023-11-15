@@ -25,9 +25,9 @@ st.write("""
 - Phi Kappa Sigma Fraternity
 """)
 # Insert images for extracurricular activities
-st.image("soccer_image.jpg", caption="Men's Club Soccer at Cal")
-st.image("fraternity_image.jpg", caption="Phi Kappa Sigma")
-st.image("consulting_image.jpg", caption="Nova Consulting")
+st.image("2242.jepg", caption="Men's Club Soccer at Cal")
+st.image("f2684.jpeg", caption="Phi Kappa Sigma")
+st.image("3771.png", caption="Nova Consulting")
 
 # Experience
 st.header("Experience")
